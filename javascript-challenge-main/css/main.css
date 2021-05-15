@@ -11,7 +11,7 @@
 /* TODO: Remove imports to HTML */
 
 /* font reference: https://fonts.google.com/specimen/Open+Sans+Condensed */
-@import url('https://fonts.google.com/specimen/Open+Sans+Condensed');
+/* @import url('https://fonts.google.com/specimen/Open+Sans+Condensed'); */
 
 body {
     font-family: 'Open Sans Condensed', sans-serif;

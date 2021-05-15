@@ -117,17 +117,13 @@ body {
     -moz-box-shadow: 1px 3px 8px -1px rgba(0,0,0,0.43);
     box-shadow: 1px 3px 8px -1px rgba(0,0,0,0.43);
 }
-.form-control:valid {
-    border: 2px solid #238f2c;
-}
-
-.form-control:invalid {
-    border: 2px solid #912917;
-}
 
 .form-control:focus {
     outline: none;
     border: 2px solid #126e82;
+}
+.form-control:invalid {
+    border: 2px solid #912917;
 }
 
 /* MAIN CSS */
